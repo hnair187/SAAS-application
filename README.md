@@ -1,7 +1,7 @@
 # SAAS-application
 Case study for a saas application
 The following repo contains the files for a saas application as follows:
-1. The application has been written and created in Terraform for AWS cloud.
+1. The application has been written and created in Terraform, terraform_version": "0.15.0" for AWS cloud.
    Info of the same will be found in the provider.tf file
 2. We have the lambda.tf file in which 3 resources have been created 
    viz starting from the s3 bucket, the api gateway and the lamda fucntion.
